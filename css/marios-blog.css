@@ -1,7 +1,6 @@
 /*!
- * Start Bootstrap - Clean Blog v5.0.1 (https://startbootstrap.com/template-overviews/marios-blog)
- * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-marios-blog/blob/master/LICENSE)
+ * Mario's Blog - Clean Blog v5.0.1 (https://startbootstrap.com/template-overviews/marios-blog)
+ * Copyright 2018-2018 Start Bootstrap
  */
 
 body {
@@ -59,6 +58,11 @@ blockquote {
   text-align: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+
+.quote {
+  font-style: italic;
+  font-size: small;
 }
 
 ::selection {
